@@ -6,8 +6,8 @@ The lab works at the intersection of **technology, sustainability, and real-worl
 
 ###  Core Focus Areas
 
-*  **Natural Farming**
-  Sustainable agriculture practices including soil health, water management, and ecological farming.
+*  **Permaculture Systems**
+  Sustainable agriculture practices including soil health, water management, and ecological farming. How can we live ethically with a lower energy, lower carbon footprint? Can we decentralize our system and empower the village to be a sustainable self-sufficient unit? Can we attract the youngsters to go back to villages and make them beautiful again, where people enjoy community living?
 
 *  **Health Care**
   Development of affordable medical devices, AI-based diagnostics, and intelligent health systems.
